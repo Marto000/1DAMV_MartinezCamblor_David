@@ -1,4 +1,4 @@
-\*\*¿Qué es un programa informático?\*\*
+**¿Qué es un programa informático?**
 
 
 
@@ -10,7 +10,7 @@ Un programa informático es un conjunto de instrucciones hechas con un lenguaje 
 
 
 
-\## Diferencia entre código fuente, código objeto y código ejecutable.
+## Diferencia entre código fuente, código objeto y código ejecutable.
 
 
 
@@ -30,59 +30,59 @@ Un programa informático es un conjunto de instrucciones hechas con un lenguaje 
 
 
 
-\*\*Etapas del desarrollo del software.\*\*
+**Etapas del desarrollo del software.**
 
 
 
-1. \*\*Análisis de requisitos: \*\*
+1. **Análisis de requisitos: **
 
 Se identifica lo que necesita el usuario y las funciones que debe tener el programa.
 
 
 
-2\. \*\*Diseño:\*\*
+2. **Diseño:**
 
 Se planifica como estructurar el software y como funcionaran sus componentes.
 
 
 
-3\. \*\*Implementación:\*\*
+3. **Implementación:**
 
 Se escribe el código fuente del programa.
 
 
 
-4\. \*\*Pruebas:\*\*
+4. **Pruebas:**
 
 Se comprueba el funcionamiento del programa y se buscan errores.
 
 
 
-5\. \*\*Despliegue:\*\*
+5. **Despliegue:**
 
 Es el momento donde el software se lanza o se da acceso a los usuarios.
 
 
 
-6\. \*\*Mantenimiento:\*\*
+6. **Mantenimiento:**
 
 Se realizan mejoras, incorporación de nuevas funcionalidad y corrección de errores.
 
 
 
-!\[Ciclo de desarrollo de software](EtapasDesarrolloSoftware.png)
+![Ciclo de desarrollo de software](EtapasDesarrolloSoftware.png)
 
 
 
 
 
-\---
+---
 
 
 
-\## Repositorio
+## Repositorio
 
 
 
-\[Repositorio de GitHub](https://github.com/Marto000/1DAMV\_MartinezCamblor\_David)
+[Repositorio de GitHub](https://github.com/Marto000/1DAMV\_MartinezCamblor\_David)
 
